@@ -9,3 +9,10 @@ Hello! Hope you're having a great day :D
 .......................,|,/....\,/..............................................
 ................................................................................
 ```
+
+<details open>
+  <summary>Stats if you like those ¯\_(ツ)_/¯</summary>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArtofBugs&rank=-C,-B&theme=onedark&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+</details>
