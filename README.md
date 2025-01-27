@@ -15,6 +15,6 @@ Hello! Hope you're having a great day :D
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArtofBugs&rank=-C,-B&theme=onedark&margin-w=5&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-statsartofbugs.vercel.app?user=ArtofBugs&theme=elegant&exclude_days=Fri%2CSat)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-statsartofbugs.vercel.app?user=ArtofBugs&theme=elegant&exclude_days=Sat,Sun)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </details>
