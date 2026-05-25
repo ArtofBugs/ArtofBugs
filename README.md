@@ -17,7 +17,7 @@ Hello! Hope you're having a great day :D
 
 </details>
 
-<details open>
+<details closed>
   <summary>Stats if you like those ¯\_(ツ)_/¯ (does not include OpenDev or GitLab contributions)</summary>
 
 [![GitHub Streak](https://github-readme-streak-statsartofbugs.vercel.app?user=ArtofBugs&theme=elegant&exclude_days=Sat,Sun)](https://github.com/DenverCoder1/github-readme-streak-stats)
