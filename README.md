@@ -18,8 +18,15 @@ Hello! Hope you're having a great day :D
 </details>
 
 <details closed>
-  <summary>Stats if you like those ¯\_(ツ)_/¯ (does not include OpenDev or GitLab contributions)</summary>
+  <summary>Stats if you like those ¯\_(ツ)_/¯ (GitHub only)</summary>
 
 [![GitHub Streak](https://github-readme-streak-statsartofbugs.vercel.app?user=ArtofBugs&theme=elegant&exclude_days=Sat,Sun)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </details>
+
+<br>
+<br>
+
+OpenDev: [Contributions](https://review.opendev.org/q/owner:oweng@osuosl.org)
+
+GitLab: [Profile](https://gitlab.com/ArtofBugs)
