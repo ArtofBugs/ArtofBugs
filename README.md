@@ -13,7 +13,7 @@ Hello! Hope you're having a great day :D
 <details open>
   <summary>Colorful trophies \o/</summary>
 
-[![GitHub Profile Trophy](https://github-profile-trophy-artofbugs.vercel.app/?username=ArtofBugs&rank=-C,-B&theme=onedark&margin-w=5&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Profile Trophy](https://github-profile-trophy-1vk63k5h9-artofbugs-projects.vercel.app/?username=ArtofBugs&rank=-C,-B&theme=onedark&margin-w=5&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
 
